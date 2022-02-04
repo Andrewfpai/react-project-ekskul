@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-project-ekskul/static/css/main.9a40784f.css",
+    "main.js": "/react-project-ekskul/static/js/main.404d06a6.js",
+    "index.html": "/react-project-ekskul/index.html",
+    "main.9a40784f.css.map": "/react-project-ekskul/static/css/main.9a40784f.css.map",
+    "main.404d06a6.js.map": "/react-project-ekskul/static/js/main.404d06a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a40784f.css",
+    "static/js/main.404d06a6.js"
+  ]
+}
